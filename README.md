@@ -28,6 +28,7 @@ View the wiki [here](https://github.com/LunaaSan/Astro-Bot/wiki)
 - ` Discord JS - A Node JS wrapper for the Discord API`
 - `process.env - To take care of any private variables.`
 - `Hosted on: https://replit.com/`  | you can host it where ever you'd like!
+- [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 
 # How to setup
