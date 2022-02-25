@@ -21,18 +21,12 @@ The wiki will also help guide you through the setup process and gives informatio
 View the wiki [here](https://github.com/LunaaSan/Astro-Bot/wiki)
 
 
-
-
 ## Bot Info <img src="https://file.coffee/u/gQdNPV5dqjltbc.png">
 - `Language: Node.js`
 - ` Discord JS - A Node JS wrapper for the Discord API`
 - `process.env - To take care of any private variables.`
 - `Hosted on: https://replit.com/`  | you can host it where ever you'd like!
 - [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-
-
-# How to setup
-Vist the wiki [here]() to view how to setup.
 
 
 # Credits <img src="https://file.coffee/u/qiFyDbefBJftBy.png">
