@@ -31,7 +31,7 @@ View the wiki [here](https://github.com/LunaaSan/Astro-Bot/wiki)
 
 # Credits <img src="https://file.coffee/u/qiFyDbefBJftBy.png">
 * Discord: Not Lunaa#4776
-* Website: https://skidlunaa.repl.co/index.html
+* Website: https://bit.ly/LunaaPortfolio
 * Github: https://github.com/LunaaSan
 * Replit: https://replit.com/@SkidLunaa
 
