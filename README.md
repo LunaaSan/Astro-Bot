@@ -1,3 +1,6 @@
+# IMPORTANT
+Astro-Bot is discontinued!
+
 # What is Astro-Bot? <img src="https://file.coffee/u/kMpNB6glQSDj8e.png">
 
 Astro-Bot is a astronaut themed discord bot made for Lunar Network Personally.  
@@ -23,6 +26,7 @@ View the wiki [here](https://github.com/LunaaSan/Astro-Bot/wiki)
 
 ## Bot Info <img src="https://file.coffee/u/gQdNPV5dqjltbc.png">
 - Language: Node.js
+- Discord.js Verison - V12
 - Discord JS - A Node JS wrapper for the Discord API
 - process.env - To take care of any private variables.
 - I hosted this on: https://replit.com/
